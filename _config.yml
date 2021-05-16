@@ -1,5 +1,5 @@
 title: Miniyus's Blog
-description: my GitHun Page
+description: my GitHub Page
 show_downloads: true
 
 baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
