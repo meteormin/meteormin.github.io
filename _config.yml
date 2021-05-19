@@ -1,4 +1,4 @@
-title: Miniyus's Blog
+title: Miniyus's GitHub Page
 description: my GitHun Page
 show_downloads: true
 
@@ -13,7 +13,7 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: # leave it empty
+theme: minimal-mistakes-jekyll # leave it empty
 
 # social
 author: miniyus
