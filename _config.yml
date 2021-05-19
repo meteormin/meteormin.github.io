@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 title: Miniyus's GitHub Page
 description: my GitHun Page
-=======
-title: Miniyus's Blog
-description: my GitHub Page
->>>>>>> 91063e9c9cf9127b94bf3a325dda62dde35ce768
 show_downloads: true
 
 baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
