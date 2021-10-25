@@ -8,7 +8,7 @@ sidebar_main: true
 
 ## Yoo Seongmin
 
-### Github Stats
+### GitHub Stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=miniyus&theme=nord)](https://github.com/miniyus/finance-data-auto-posting)
 
