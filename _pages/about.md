@@ -7,3 +7,5 @@ sidebar_main: true
 entries_layout: grid
 classes: wide
 ---
+
+hello,
