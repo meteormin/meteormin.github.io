@@ -1,0 +1,10 @@
+.idea
+.vscode
+*.gem
+.bundle
+GemFile.lock
+.jekyll-cache
+.sass-cache
+package-lock.json
+
+
