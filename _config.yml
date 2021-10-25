@@ -269,10 +269,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _pages
+  # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -280,10 +280,3 @@ defaults:
       comments: # true
       share: true
       related: true
-collections:
-  php:
-    output: true
-    permalink: /:collection/:path/
-  python:
-    output: true
-    permalink: /:collection/:path/
