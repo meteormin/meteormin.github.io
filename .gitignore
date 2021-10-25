@@ -6,5 +6,4 @@ GemFile.lock
 .jekyll-cache
 .sass-cache
 package-lock.json
-
-
+_site
