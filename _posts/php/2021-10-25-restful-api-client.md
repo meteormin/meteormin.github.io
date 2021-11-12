@@ -12,30 +12,32 @@ laravel용 restful API개발 도구입니다. restful API의 url구조를 클래
 
 ```php
 <?php
+use \Miniyus\RestfulApiClient\Api\ApiClient;
+
 // GET https://api.exmaple.com/v1/user
 $response = ApiClient::v1()->user()->get();
 
 // POST https://api.example.com/v1/user
 $request = ['something'=>''];
-$response = ApiCLient::v1()->user()->post($request);
+$response = ApiClient::v1()->user()->post($request);
 
 // PUT https://api.example.com/v1/user
 $request = ['something'=>''];
-$response = ApiCLient::v1()->user()->put($request);
+$response = ApiClient::v1()->user()->put($request);
 
 // if you have path parameter
 // PUT https://api.example.com/v1/user/1 
 $id = 1;
 $request = ['something'=>''];
-$response = ApiCLient::v1()->user()->put($id, $request);
+$response = ApiClient::v1()->user()->put($id, $request);
 
 // DELETE https://api.example.com/v1/user
-$response = ApiCLient::v1()->user()->delete();
+$response = ApiClient::v1()->user()->delete();
 
 // if you have path parameter
-// DELETE https://api.example.com/v1/user/1
+// DELETE https://api.example.com/v1/user
 $id = 1;
-$response = ApiCLient::v1()->user()->delete($id);
+$response = ApiClient::v1()->user()->delete($id);
 ```
 
 ### [RestfulApiClient](https://github.com/miniyus/restful-api-client)
