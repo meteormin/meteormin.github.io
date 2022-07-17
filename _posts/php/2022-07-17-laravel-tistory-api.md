@@ -75,9 +75,7 @@ KAKAO_PASSWORD={카카오톡패스워드}
 
 ## 사용법
 
-<details>
-
-<summary>Login</summary>
+Login
 
 ```php
 <?php
@@ -85,10 +83,7 @@ KAKAO_PASSWORD={카카오톡패스워드}
 $client = \Miniyus\TistoryApi\Tistory\TistoryClient::login();
 ```
 
-</details>
-
-<details>
-<summary>Post</summary>
+Post
 
 ```php
 <?php
@@ -136,7 +131,6 @@ $post->getResponse();
 
 ```
 
-</details>
 
 ### [Laravel Tistory API](https://github.com/miniyus/laravel-tistory-api)
 
