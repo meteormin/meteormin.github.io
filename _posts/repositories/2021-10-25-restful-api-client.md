@@ -1,7 +1,8 @@
 ---
 title: Restful Api Client
 excerpt: My PHP Repositories
-categories: php
+categories: repositories
+tags: php
 ---
 
 ## RestfulApiClient For Laravel

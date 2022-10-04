@@ -1,7 +1,8 @@
 ---
 title: Tistory API for Laravel
 excerpt: My PHP Repositories
-categories: php
+categories: repositories
+tags: php
 ---
 
 ## Tistory API for Laravel

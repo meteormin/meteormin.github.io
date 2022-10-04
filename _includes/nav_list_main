@@ -11,24 +11,29 @@
             All({{sum}})
       </li>
       <li>
-        <span class="nav__sub-title">PHP</span>
+        <span class="nav__sub-title">Repositories</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 <!--카테고리 글들을 모아둔 페이지인 /categories/{category} 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
-                    {% if category[0] == "php" %}
-                        <li><a href="/categories/php" class="">PHP ({{category[1].size}})</a></li>
+                    {% if category[0] == "repositories" %}
+                        <li><a href="/categories/repositories" class="">Repositories ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Python</span>
+      </li>
+      <li>
+        <span class="nav__sub-title">Developments</span>
+            <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "python" %}
-                        <li><a href="/categories/python" class="">Python ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
+              <!--카테고리 글들을 모아둔 페이지인 /categories/{category} 주소의 글로 링크 연결-->
+              <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->
+              {% for category in site.categories %}
+                  {% if category[0] == "developments" %}
+                      <li><a href="/categories/developments" class="">Developments ({{category[1].size}})</a></li>
+                  {% endif %}
+              {% endfor %}
             </ul>
       </li>
   </ul>

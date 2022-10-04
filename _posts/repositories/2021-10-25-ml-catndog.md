@@ -1,7 +1,8 @@
 ---
 title: "Machine Learning: Cats and Dogs"
 excerpt: My Python Repositories
-categories: python
+categories: repositories
+tags: python
 ---
 
 ## Machine Learning: Cats and Dogs with Tensorflow
