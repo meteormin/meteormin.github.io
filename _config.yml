@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-kr"
-title                    : "Miniyus GitHub io"
+title                    : "Miniyus GitHub.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "miniyus"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Yoo Seongmin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Language: PHP, Python, JavaScript"
+  bio              : "Seongmin's Gitbug.io"
   location         : "Republic of Korea"
   email            :
   links:
