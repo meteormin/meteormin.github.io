@@ -180,5 +180,5 @@ schedule configuration
         - Cron 위키 피디아: https://en.wikipedia.org/wiki/Cron#CRON_expression
         - APScheduler 공식 문서: https://apscheduler.readthedocs.io/en/3.x/modules/triggers/cron.html
 
-### [Hiworks Check in ant out](https://github.com/miniyus/hiworks-check-in-ant-out)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miniyus&repo=hiworks-check-in-ant-out&show_owner=true&theme=nord)](https://github.com/miniyus/hiworks-check-in-ant-out)
+### [Hiworks Check in and out](https://github.com/miniyus/hiworks-check-in-and-out)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miniyus&repo=hiworks-check-in-and-out&show_owner=true&theme=nord)](https://github.com/miniyus/hiworks-check-in-and-out)
