@@ -1,7 +1,7 @@
 ---
 title: 도커 란?
 excerpt: What is Docker?
-categories: development
+categories: developments
 tags: docker
 ---
 
