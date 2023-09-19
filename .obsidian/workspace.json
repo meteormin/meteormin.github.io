@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "375aebbd85fda938",
+    "type": "split",
+    "children": [
+      {
+        "id": "07193be4f3c66815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9f1c3b8a04fd67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/repositories/2021-10-25-mapper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e0730a290bf1822",
+    "type": "split",
+    "children": [
+      {
+        "id": "c78ef0833445211b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2022f1431de5aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82ee78cb92af46f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c739901c7f2e01bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "da8667881d208411",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40d7eeccda660de8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca521a0b53b98e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de25d878fe6d8b2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/repositories/2021-10-25-mapper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "082445d8a7abca80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/repositories/2021-10-25-mapper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70d1917a2895b2fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "055655a54859048b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/repositories/2021-10-25-mapper.md"
+              }
+            }
+          },
+          {
+            "id": "af2651225fd718cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "cc9f1c3b8a04fd67",
+  "lastOpenFiles": [
+    "README.md",
+    "Context/spacesLastSync.log",
+    "Context"
+  ]
+}
