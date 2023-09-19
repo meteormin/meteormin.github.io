@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "07193be4f3c66815",
+        "id": "3335179faeab794e",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9f1c3b8a04fd67",
+            "id": "66134403d2392c08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/repositories/2021-10-25-mapper.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
