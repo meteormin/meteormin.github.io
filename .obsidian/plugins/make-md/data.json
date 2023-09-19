@@ -42,7 +42,6 @@
   "expandedSpaces": [
     "/",
     null,
-    "miniyus",
     null
   ],
   "expandFolderOnClick": true,
@@ -74,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695047784890,
+  "spacesAutoBackupLast": 1695121589058,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -165,8 +165,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc9f1c3b8a04fd67",
+  "active": "da8667881d208411",
   "lastOpenFiles": [
+    "assets/images/docker-container.png",
+    "assets/images/docker vs vm.png",
+    "assets/images/architecture.svg",
+    "assets/images/31.png",
+    "assets/images",
+    "_posts/repositories/2023-04-06-goworker.md",
+    "_posts/repositories/2022-12-19-hiworks-checker.md",
+    "_posts/developments/2023-03-30-what-is-docker.md",
+    "_posts/developments",
+    "_pages/tags/tag-go.md",
+    "_pages/tags/tag-docker.md",
+    "_pages/categories/category-developments.md",
     "README.md",
     "Context/spacesLastSync.log",
     "Context"
