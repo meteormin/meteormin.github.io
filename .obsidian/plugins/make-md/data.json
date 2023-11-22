@@ -36,13 +36,14 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "miniyus": [
-      "_posts/repositories"
+      "_posts/repositories",
+      "assets",
+      "assets/images"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "miniyus",
     null
   ],
   "expandFolderOnClick": true,
@@ -74,7 +75,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695477069738,
+  "spacesAutoBackupLast": 1700664909219,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

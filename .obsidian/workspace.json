@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f7abf632561ebebc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/repositories/2021-10-25-mapper.md",
+                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/repositories/2021-10-25-mapper.md",
+                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/repositories/2021-10-25-mapper.md"
+                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md"
               }
             }
           },
@@ -161,8 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da8667881d208411",
+  "active": "f7abf632561ebebc",
   "lastOpenFiles": [
+    "assets/images/Untitled.md",
+    "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md",
+    "Excalidraw",
     "assets/images/docker-container.png",
     "assets/images/docker vs vm.png",
     "assets/images/architecture.svg",
