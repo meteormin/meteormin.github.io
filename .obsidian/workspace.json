@@ -8,25 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66134403d2392c08",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "f7abf632561ebebc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md"
+                "file": "Daliynote/2023-11-29.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md",
+                "file": "Daliynote/2023-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md",
+                "file": "Daliynote/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md"
+                "file": "Daliynote/2023-11-29.md"
               }
             }
           },
@@ -172,10 +165,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7abf632561ebebc",
+  "active": "da8667881d208411",
   "lastOpenFiles": [
-    "assets/images/Untitled.md",
+    "Daliynote/2023-11-29.md",
+    "Daliynote/Untitled.md",
+    "Daliynote",
     "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md",
+    "Untitled 1.md",
+    "assets/images/Untitled.md",
     "Excalidraw",
     "assets/images/docker-container.png",
     "assets/images/docker vs vm.png",
