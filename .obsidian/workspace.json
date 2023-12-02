@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff7b7fc7b160b2b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7abf632561ebebc",
+  "active": "ff7b7fc7b160b2b7",
   "lastOpenFiles": [
     "Daliynote/2023-11-29.md",
     "Daliynote/Untitled.md",
