@@ -41,9 +41,9 @@ Windows환경에서 WSL을 사용하시는 경우, Xlaunch(VcXsrv)와 같은 가
 1. 패키지 설치
 
 ```shell
-composer require miniyus/laravel-tistory-api
+composer require meteormin/laravel-tistory-api
 
-php artisan vendor:publish --provider="Miniyus\TistoryApi\TistoryServiceProvider"
+php artisan vendor:publish --provider="meteormin\TistoryApi\TistoryServiceProvider"
 ```
 
 2. 크롬 버전 확인
@@ -81,7 +81,7 @@ Login
 ```php
 <?php
 // login
-$client = \Miniyus\TistoryApi\Tistory\TistoryClient::login();
+$client = \Meteormin\TistoryApi\Tistory\TistoryClient::login();
 ```
 
 Post
@@ -90,7 +90,7 @@ Post
 <?php
 
 // login
-$client = \Miniyus\TistoryApi\Tistory\TistoryClient::login();
+$client = \Meteormin\TistoryApi\Tistory\TistoryClient::login();
 
 // https://www.tistory.com/apis/post
 // 글 관련 API 모듈 가져오기
@@ -101,8 +101,8 @@ $post = $client->apis()->post();
 $post->list();
 
 // POST https://www.tistory.com/apis/post/write
-// 글 작성 시, \Miniyus\TistoryApi\Tistory\Data\TistoryPost 객체를 사용합니다.
-$data = \Miniyus\TistoryApi\Tistory\Data\TistoryPost::newInstance();
+// 글 작성 시, \meteormin\TistoryApi\Tistory\Data\TistoryPost 객체를 사용합니다.
+$data = \meteormin\TistoryApi\Tistory\Data\TistoryPost::newInstance();
 $data->setTitle('...');
 $data->setContent('...');
 $response = $post->write($data);
@@ -133,6 +133,6 @@ $post->getResponse();
 ```
 
 
-### [Laravel Tistory API](https://github.com/miniyus/laravel-tistory-api)
+### [Laravel Tistory API](https://github.com/meteormin/laravel-tistory-api)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miniyus&repo=laravel-tistory-api&show_owner=true&theme=nord)](https://github.com/miniyus/laravel-tistory-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meteormin&repo=laravel-tistory-api&show_owner=true&theme=nord)](https://github.com/meteormin/laravel-tistory-api)
