@@ -13,7 +13,7 @@ laravel용 restful API개발 도구입니다. restful API의 url구조를 클래
 
 ```php
 <?php
-use \Miniyus\RestfulApiClient\Api\ApiClient;
+use \Meteormin\RestfulApiClient\Api\ApiClient;
 
 // GET https://api.exmaple.com/v1/user
 $response = ApiClient::v1()->user()->get();
@@ -41,5 +41,5 @@ $id = 1;
 $response = ApiClient::v1()->user()->delete($id);
 ```
 
-### [RestfulApiClient](https://github.com/miniyus/restful-api-client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miniyus&repo=restful-api-client&show_owner=true&theme=nord)](https://github.com/miniyus/restful-api-client)
+### [RestfulApiClient](https://github.com/meteormin/restful-api-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meteormin&repo=restful-api-client&show_owner=true&theme=nord)](https://github.com/meteormin/restful-api-client)
