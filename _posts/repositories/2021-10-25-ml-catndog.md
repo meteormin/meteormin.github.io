@@ -28,5 +28,5 @@ tags: python
 - [https://www.kaggle.com/vrenganathan/dog-cats-90-accuracy-with-cnn-image-aug/notebook](https://www.kaggle.com/vrenganathan/dog-cats-90-accuracy-with-cnn-image-aug/notebook)
 
 
-### [Machine Learning: Cats and Dogs](https://github.com/miniyus/machine-learning-cats-and-dogs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miniyus&repo=machine-learning-cats-and-dogs&show_owner=true&theme=nord)](https://github.com/miniyus/machine-learning-cats-and-dogs)
+### [Machine Learning: Cats and Dogs](https://github.com/meteormin/machine-learning-cats-and-dogs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meteormin&repo=machine-learning-cats-and-dogs&show_owner=true&theme=nord)](https://github.com/meteormin/machine-learning-cats-and-dogs)
