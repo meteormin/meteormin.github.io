@@ -36,7 +36,7 @@ pytimekr~=0.1.0
 packaging~=21.3
 pandas~=1.5.1
 APScheduler~=3.9.1.post1
-git+https://github.com/miniyus/dfquery.git
+git+https://github.com/meteormin/dfquery.git
 ```
 
 ### install
@@ -150,7 +150,7 @@ hiworks-checker.bat schedule
 ```
 
 schedule configuration
-> [scheduler.py](https://github.com/miniyus/hiworks-check-in-and-out/blob/main/config/scheduler.py)
+> [scheduler.py](https://github.com/meteormin/hiworks-check-in-and-out/blob/main/config/scheduler.py)
 
 ```python
 # python 딕셔너리 작성
@@ -183,5 +183,5 @@ SCHEDULER = {
         - APScheduler 공식 문서: https://apscheduler.readthedocs.io/en/3.x/modules/triggers/cron.html
 
 
-### [Hiworks Check in and out](https://github.com/miniyus/hiworks-check-in-and-out)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miniyus&repo=hiworks-check-in-and-out&show_owner=true&theme=nord)](https://github.com/miniyus/hiworks-check-in-and-out)
+### [Hiworks Check in and out](https://github.com/meteormin/hiworks-check-in-and-out)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=meteormin&repo=hiworks-check-in-and-out&show_owner=true&theme=nord)](https://github.com/meteormin/hiworks-check-in-and-out)
