@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Janapese.md",
+                "file": "Daliynote/2024-06-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Janapese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Janapese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data/Janapese.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,13 +141,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "831083c5adb2279d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fac210420949a73c",
+  "active": "4c12cacc5f5e9fdf",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Daliynote/2024-06-29.md",
+    "Daliynote/context.mdb",
     "Data/Janapese.md",
-    "Data",
+    "Data/Development.md",
     "Daliynote/2023-11-29.md",
+    "Untitled.md",
+    "Data",
     "Daliynote/Untitled.md",
     "Daliynote",
     "Excalidraw/Drawing 2023-11-22 23.55.08.excalidraw.md",
