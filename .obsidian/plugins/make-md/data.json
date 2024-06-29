@@ -37,14 +37,15 @@
   "expandedFolders": {
     "miniyus": [
       "_posts/repositories",
-      "assets/images"
+      "assets/images",
+      "Data"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "miniyus",
-    null
+    null,
+    "miniyus"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -75,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1706862996978,
+  "spacesAutoBackupLast": 1719630484501,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
