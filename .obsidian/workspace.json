@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "09aac5ebcaf6d1d9",
+        "id": "9c9c727787251d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "fac210420949a73c",
+            "id": "a20f4e580ef1dc59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daliynote/2024-06-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dbb5b410e1997c53",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db0b6b4bbdcc878a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -108,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daliynote/2024-06-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daliynote/2024-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daliynote/2024-06-29.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,7 +166,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "db0b6b4bbdcc878a",
+  "active": "a20f4e580ef1dc59",
   "lastOpenFiles": [
     "Daliynote/2024-06-29.md",
     "Daliynote/context.mdb",
