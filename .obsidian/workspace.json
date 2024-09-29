@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9c9c727787251d8f",
+        "id": "409b1940c70dc0ba",
         "type": "tabs",
         "children": [
           {
-            "id": "a20f4e580ef1dc59",
+            "id": "3b71f92e022cf7d0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Daliynote/2024-09-29.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -168,8 +170,9 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a20f4e580ef1dc59",
+  "active": "c4a48ec52f3c741e",
   "lastOpenFiles": [
+    "Daliynote/2024-09-29.md",
     "Daliynote/2024-06-29.md",
     "Daliynote/context.mdb",
     "Data/Janapese.md",

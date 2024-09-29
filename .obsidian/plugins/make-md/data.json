@@ -38,7 +38,7 @@
     "miniyus": [
       "_posts/repositories",
       "assets/images",
-      "Data"
+      "Daliynote"
     ]
   },
   "expandedSpaces": [
@@ -76,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1721137443415,
+  "spacesAutoBackupLast": 1727601022976,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
