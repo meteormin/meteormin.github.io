@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daliynote/2024-09-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daliynote/2024-09-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daliynote/2024-09-29.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +170,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "3b71f92e022cf7d0",
+  "active": "7af3c7786cd001cf",
   "lastOpenFiles": [
     "Daliynote/2024-09-29.md",
     "Daliynote/2024-06-29.md",
