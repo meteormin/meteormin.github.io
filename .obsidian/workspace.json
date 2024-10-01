@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daliynote/2024-09-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daliynote/2024-09-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daliynote/2024-09-29.md"
+              }
             }
           },
           {
@@ -170,14 +174,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "7af3c7786cd001cf",
+  "active": "3b71f92e022cf7d0",
   "lastOpenFiles": [
+    "Daliynote/2023-11-29.md",
+    "_posts/repositories/2021-10-25-ml-catndog.md",
+    "_posts/repositories/2021-10-25-mapper.md",
+    "Data/Development.md",
+    "Data/Janapese.md",
     "Daliynote/2024-09-29.md",
     "Daliynote/2024-06-29.md",
     "Daliynote/context.mdb",
-    "Data/Janapese.md",
-    "Data/Development.md",
-    "Daliynote/2023-11-29.md",
     "Untitled.md",
     "Data",
     "Daliynote/Untitled.md",

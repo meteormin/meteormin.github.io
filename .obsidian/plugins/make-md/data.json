@@ -38,7 +38,8 @@
     "miniyus": [
       "_posts/repositories",
       "assets/images",
-      "Daliynote"
+      "Daliynote",
+      "_posts"
     ]
   },
   "expandedSpaces": [
