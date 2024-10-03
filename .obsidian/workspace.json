@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daliynote/2024-09-29.md",
+                "file": "Daliynote/2023-11-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daliynote/2024-09-29.md",
+                "file": "Daliynote/2023-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daliynote/2024-09-29.md",
+                "file": "Daliynote/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daliynote/2024-09-29.md"
+                "file": "Daliynote/2023-11-29.md"
               }
             }
           },
@@ -176,12 +176,13 @@
   },
   "active": "3b71f92e022cf7d0",
   "lastOpenFiles": [
+    "Daliynote/2024-10-04.md",
+    "Daliynote/2024-09-29.md",
     "Daliynote/2023-11-29.md",
     "_posts/repositories/2021-10-25-ml-catndog.md",
     "_posts/repositories/2021-10-25-mapper.md",
     "Data/Development.md",
     "Data/Janapese.md",
-    "Daliynote/2024-09-29.md",
     "Daliynote/2024-06-29.md",
     "Daliynote/context.mdb",
     "Untitled.md",
