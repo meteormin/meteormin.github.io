@@ -89,6 +89,18 @@
             "id": "52fd2a4c76445cad",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ded6a40a4e59fd06",
+            "type": "leaf",
+            "state": {
               "type": "mk-file-view",
               "state": {},
               "icon": "layout-grid",
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -161,11 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daliynote/2024-09-29.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2024-09-29"
+              "title": "Outline"
             }
           },
           {
