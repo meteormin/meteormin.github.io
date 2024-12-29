@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2024-09-29"
             }
+          },
+          {
+            "id": "082358527db38d38",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,10 +126,12 @@
             "id": "e60cace3b485fc50",
             "type": "leaf",
             "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -230,7 +245,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "3e7a88e022641dbd",
+  "active": "082358527db38d38",
   "lastOpenFiles": [
     "Daliynote/2024-10-04.md",
     "Daliynote/2024-09-29.md",
