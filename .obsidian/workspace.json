@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2024-09-29"
             }
-          },
-          {
-            "id": "082358527db38d38",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,6 +125,18 @@
             "id": "5f57aa8a4026cf42",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f9845126b1888a2c",
+            "type": "leaf",
+            "state": {
               "type": "mk-file-view",
               "state": {},
               "icon": "layout-grid",
@@ -145,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -210,9 +209,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Daliynote/2024-09-29.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2024-09-29"
             }
           },
           {
@@ -255,7 +256,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "082358527db38d38",
+  "active": "3e7a88e022641dbd",
   "lastOpenFiles": [
     "Daliynote/2024-10-04.md",
     "Daliynote/2024-09-29.md",
