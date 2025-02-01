@@ -137,10 +137,12 @@
             "id": "f9845126b1888a2c",
             "type": "leaf",
             "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -209,11 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daliynote/2024-09-29.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2024-09-29"
+              "title": "Outline"
             }
           },
           {
